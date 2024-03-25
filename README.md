@@ -2,7 +2,7 @@
 
 The codes available here reproduce the analysis of the paper titled: "The Dynamics of Labour Market Polarization in Chile: An Analysis of the Link Between Technical Change and Informality". The data used for the analysis is not provided and must be requested separately to the Subsecretaría de Previsión Social of Chile.
 
-See the [Working Paper]([https://www.econstor.eu/bitstream/10419/270891/1/GLO-DP-1262.pdf]). 
+See the [Working Paper](https://www.econstor.eu/bitstream/10419/270891/1/GLO-DP-1262.pdf). 
 
 ## List of files
 
