@@ -19,6 +19,6 @@ Each directory contains a README file describing each file and subdirectory.
 
 ## Contacts
 
-Isaure Delaporte ([delaporte@ilo.org](mailto:delaporte@ilo.org) / [isauredelaporte.com](https://sites.google.com/site/isauredelaporte/home)) & Werner Pena ([wernerhp87@gmail.com](mailto:wernerhp87@gmail.com) / [wernerpena.com](https://sites.google.com/view/wernerpena/home))
+Isaure Delaporte ([delaporte@ilo.org](mailto:delaporte@ilo.org) / [isauredelaporte.com](https://sites.google.com/site/isauredelaporte/home)) & Werner Peña ([wernerhp87@gmail.com](mailto:wernerhp87@gmail.com) / [wernerpena.com](https://sites.google.com/view/wernerpena/home))
 
 ## Acknowledgements
