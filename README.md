@@ -16,7 +16,7 @@ See the [Working Paper](https://www.econstor.eu/bitstream/10419/270891/1/GLO-DP-
 
 # List of directories and files
 
-| FILE                    | DESCRIPTION                                                    |
+| FOLDER                  | DESCRIPTION                                                    |
 | ----------------------- | -------------------------------------------------------------- |
 | `data_files`            | All the data (raw, cleaned and final datasets) |
 | `do_files`              | All the do_files |
