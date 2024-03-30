@@ -11,12 +11,10 @@ See the [Working Paper](https://www.econstor.eu/bitstream/10419/270891/1/GLO-DP-
 # Instructions
 
 - Get access to the same dataset 'Social protection survey' of Chile.
-- Download them and organize them in the folder `data_files`.
-- Run all the do-files `do_files` to clean, set up the data and conduct the analysis.
+- Download the data and place it into the folder `data_files`.
+- Run all the do-files placed in the folder `do_files` to clean, set up the data and conduct the analysis.
 
 # List of directories and files
-
-Each directory contains a README file describing each file and subdirectory.
 
 | DATA FILE               | DESCRIPTION                                                    |
 | ----------------------- | -------------------------------------------------------------- |
